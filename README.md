@@ -177,31 +177,6 @@ As entidades e seus relacionamentos são mapeados pelo `ByteBankContexto`, que u
 - A implementação de autenticação e armazenamento de senhas deve ser revisada antes de qualquer uso real. Prefira mecanismos consolidados de gerenciamento de identidade e hash de senha com salt e fator de trabalho apropriado.
 - O projeto foi desenvolvido com .NET 5 e versões antigas de dependências; avalie atualizações e possíveis mudanças de API antes de migrar.
 
-## Contribuição
-
-Contribuições são bem-vindas!
-
-1. Faça um fork do projeto.
-2. Crie uma branch para sua alteração:
-
-   ```bash
-   git checkout -b feature/minha-alteracao
-   ```
-
-3. Faça as alterações e crie um commit:
-
-   ```bash
-   git commit -m "feat: descreve minha alteração"
-   ```
-
-4. Envie a branch:
-
-   ```bash
-   git push origin feature/minha-alteracao
-   ```
-
-5. Abra um Pull Request.
-
 ## Licença
 
 Não foi identificada uma licença nos arquivos fornecidos. Antes de permitir o uso, modificação ou redistribuição por terceiros, escolha uma licença e inclua o respectivo arquivo `LICENSE` no repositório.
